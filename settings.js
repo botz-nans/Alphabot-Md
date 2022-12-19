@@ -29,7 +29,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "Nans Xyzz" //namabot kalian
 global.ownername= "ᴹᴿ᭄ NansOfcོ ×፝֟͜×" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
+global.myweb ="https://linktr.ee/nansxyzz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/@nanszyzz" //bebas asal jan hapus
 global.myweb2 = "https://linktr.ee/nansxyzz" //bebas
 global.email = "nansxyzz@gmail.com" //bebas
@@ -43,7 +43,7 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/904eab9433fa7fa0eefd9.mp4'
-global.packname = '©nansxyzz' //sticker wm ubah
+global.packname = '@nansxyzz' //sticker wm ubah
 global.author = 'Nans Xyzz' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
